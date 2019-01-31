@@ -26,5 +26,6 @@ class Transfer
   
   def receive_transaction
     
+    end
   end
 end
