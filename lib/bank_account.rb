@@ -9,8 +9,6 @@ class BankAccount
   end
 
   def deposit(num)
-    if num = 0
-    else num + @balance
-    end
+    num + @balance
   end
 end
