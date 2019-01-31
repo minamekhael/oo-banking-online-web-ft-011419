@@ -25,7 +25,7 @@ class Transfer
   end
   
   def receive_transaction
-    
+    if @status = ""
     end
   end
 end
