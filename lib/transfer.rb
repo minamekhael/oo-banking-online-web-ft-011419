@@ -24,7 +24,7 @@ class Transfer
     end
   end
   
-  def receive_transaction
+  def reverse_transfer
     if @status = ""
     end
   end
